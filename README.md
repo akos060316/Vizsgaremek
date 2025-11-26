@@ -1,1 +1,2 @@
 # Vizsgaremek
+Gerencsér Ákos
